@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+		
+	<string name="galleryImage">/images/sv/gallery.png</string>
+	<string name="saveImage">/images/sv/save.png</string>
+	<string name="eraserImage">	/images/sv/eraser.png</string>
+	<string name="noAdsBtn">Jag vill gärna ta bort annonserna i denna app</string>
+    <string name="confirmSave">Teckningen sparad!</string>
+    <string name="back">Stäng</string>
+    <string name="label">Utveckling av appar tar väldigt mycket tid. Denna applikation innehåller annonser för att ni ska ha möjlighet att ladda ner den gratis. Däremot vill vi alltid ge er möjlighet att välja. Önskar ni att använda appen utan annonser går det att köpa den för 7 kr. Klicka bara på köpknappen. Har ni redan köpt produkten klicka på återställ.</string>
+    <string name="buyBtn">Köp</string>
+    <string name="restoreBtn">Återställ</string>
+
+	
+
+
+</resources>

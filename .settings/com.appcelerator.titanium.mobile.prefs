@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=paint
+iosLaunchConfigurationAttributes/appid=se.powerapp.paintonblack
+iosLaunchConfigurationAttributes/certificate=Marcus Kvant (5T9Z8F4R87)
+iosLaunchConfigurationAttributes/distribute_path=/Users/mkt/Desktop
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/output_format=ipa
+iosLaunchConfigurationAttributes/sdk_version=7.0
+iosLaunchConfigurationAttributes/uuid=0037875C-1CAE-4A1A-9CC9-2C92AA938C54

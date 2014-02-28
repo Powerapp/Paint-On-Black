@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	
+	
+	<string name="galleryImage">/images/en/gallery.png</string>
+	<string name="saveImage">/images/en/save.png</string>
+	<string name="eraserImage">/images/en/eraser.png</string>
+	<string name="noAdsBtn">I would like to remove advertisements from this app</string>
+    <string name="confirmSave">Painting saved</string>
+    <string name="back">Close</string>
+    <string name="label">Developing applications is very time consuming. Allowing advertisements in this application enables you to to download it for free. But we always want to give you a choice. If you would like this app to become ad free for USD 0.99, please click buy button. If you´ve already bought this product, please use restore button.</string>
+    <string name="buyBtn">Buy</string>
+    <string name="restoreBtn">Restore</string>
+	
+
+
+</resources>
